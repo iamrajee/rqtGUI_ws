@@ -1,0 +1,2 @@
+rviz_qt_embedder
+-DCATKIN_DEVEL_PREFIX=/home/rajendra/rqtGUI_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rajendra/rqtGUI_ws/install -G Unix Makefiles

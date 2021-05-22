@@ -1,0 +1,8 @@
+prefix=/home/rajendra/rqtGUI_ws/devel
+
+Name: rviz_qt_embedder
+Description: Description of rviz_qt_embedder
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
