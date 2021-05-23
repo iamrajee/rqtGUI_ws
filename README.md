@@ -39,6 +39,7 @@ This ROS melodic workspace is created on Ubuntu 18.04.  Here I have worked on fe
 - #### Setup
     ```
     cd rqtGUI_ws/
+    chmod +x *.sh
     source source.sh
     make
     ```
