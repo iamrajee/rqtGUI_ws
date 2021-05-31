@@ -50,7 +50,7 @@ This ROS melodic workspace is created on Ubuntu 18.04.  Here I have worked on fe
 
 * ## [rviz_qt_embedder](src/rviz_qt_embedder)
     ![](readme_resources/4.png)\
-    ![](readme_resources/5.gif)\
+    ![](readme_resources/5.gif)
     <!-- ![](readme_resources/3.png)\ -->
     
     Terminal 1:
