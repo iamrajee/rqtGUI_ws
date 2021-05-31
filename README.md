@@ -49,9 +49,9 @@ This ROS melodic workspace is created on Ubuntu 18.04.  Here I have worked on fe
 ## Package description
 
 * ## [rviz_qt_embedder](src/rviz_qt_embedder)
-    ![](readme_resources/1.png)\
-    ![](readme_resources/2.png)\
-    ![](readme_resources/3.png)\
+    ![](readme_resources/4.png)\
+    <!-- ![](readme_resources/2.png)\
+    ![](readme_resources/3.png)\ -->
     Terminal 1:
     ```
     $ roscore
