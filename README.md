@@ -52,6 +52,7 @@ This ROS melodic workspace is created on Ubuntu 18.04.  Here I have worked on fe
     ![](readme_resources/4.png)\
     ![](readme_resources/5.gif)\
     <!-- ![](readme_resources/3.png)\ -->
+    
     Terminal 1:
     ```
     $ roscore
