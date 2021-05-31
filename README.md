@@ -131,6 +131,7 @@ This ROS melodic workspace is created on Ubuntu 18.04.  Here I have worked on fe
 
 | <a href="https://www.linkedin.com/in/s-m-rafi-911442130/" target="_blank">**S M Rafi**</a> |
 | :---: |
+| ![](https://avatars1.githubusercontent.com/u/33804907?s=200&v=3) |
 
 <!-- | <a href="https://github.com/abhinand4as" target="_blank">**Abhinand A S**</a> | <a href="https://www.linkedin.com/in/sachin-rustagi-882b55145/" target="_blank">**Sachin Rustagi**</a> | <a href="https://www.linkedin.com/in/amin-swamiprasad-pkd-17732b152/" target="_blank">**Swami Prasad**</a> |
 | :---: |:---:| :---:|
